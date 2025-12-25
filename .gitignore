@@ -1,0 +1,13 @@
+# 排除实际照片文件
+photos/*.jpg
+photos/*.png
+photos/*.jpeg
+photos/*.gif
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.b64
+/tmp/
